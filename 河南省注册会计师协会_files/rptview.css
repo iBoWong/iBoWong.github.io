@@ -1,0 +1,196 @@
+.bk {  color: #333333; border: 1px solid; border-color: #333333 #333333 #333333 #333333}
+.xing{ color:red; }
+.buttonface {
+font-size: 9pt; font-style: normal; line-height: normal; font-weight: normal; font-variant: normal; height: 20px; clip:  rect(   ); color: #9bbad6 border-color: black #000000 #000000 black; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; background-color: #FFFFFF
+}
+.unnamed1 {  font-size: 14px;line-height: 18pt}
+.unnamed2 {  font-size: 9pt; color: #000000; text-decoration: underline; line-height: 18pt}
+.unnamed3 {  font-size: 12px; background-color:#FFFFFF;line-height: 25px;}
+.unnamed4 {  font-size: 12px;line-height: 25px;color:#003366;font-weight: bold; background-color:#f1f1f1;}
+.CSS01 {
+	border: 1px solid #CCCCCC;
+}
+.css02 {
+	background-color: #FFFFFF;
+	border: 1px solid #4888D5;
+}
+.css03 {
+	background-color: #FFFFFF;
+	border-top: 1px none #999999;
+	border-right: 1px solid #999999;
+	border-bottom: 1px none #999999;
+	border-left: 1px solid #999999;
+}
+.css4 {
+	margin: 1px;
+	padding: 1px;
+	border: 1px solid #000000;
+}
+
+body {font-size:12px; color:#000000;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #FFFFFF;
+	}
+
+td {font-size:12px; color:#333333;}
+.solidTable {
+	border-collapse:collapse;
+	border:solid;
+    border-color:#999999;
+	border-width:1px;
+}
+
+.left-1 {
+	BORDER-RIGHT: #cbcbcb 1px; BORDER-TOP: #cbcbcb 1px; BORDER-LEFT: #cbcbcb 1px solid; BORDER-BOTTOM: #cbcbcb 1px
+}
+.dh-yy {
+	FONT-SIZE: 12px; FILTER: DropShadow(Color=#ffffff, OffX=1, OffY=1, Positive=yes)
+}
+.cdbgdy {
+	BORDER-RIGHT: #237cbe 1px solid; BORDER-TOP: #237cbe 1px solid; BACKGROUND: #d9f1fb; FONT: 12px/18px Arial, Helvetica, sans-serif; BORDER-LEFT: #237cbe 1px solid; COLOR: #ff7800; BORDER-BOTTOM: #237cbe 1px solid; TEXT-DECORATION: none
+}
+.sll {
+	FONT: 12px/18px Arial, Helvetica, sans-serif; COLOR: #ff7800; TEXT-DECORATION: none
+}
+
+.Verdana {font-family: Verdana, Arial, Helvetica, sans-serif; font-size:10px}
+.Verdana-white {font-family: Verdana, Arial, Helvetica, sans-serif; font-size:10px; color:#FFFFFF}
+.V {font-family: Verdana, Arial, Helvetica, sans-serif; font-size:11px}
+A:link {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #333333; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #0F85FE; TEXT-DECORATION: underline
+}
+
+A.white:link {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.white:visited {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.white:hover {
+	COLOR: #ff0000; TEXT-DECORATION: underline
+}
+
+ A.a1:link {
+	COLOR: #000000; TEXT-DECORATION: none; 
+}
+ A.a1:visited {
+	COLOR: #000000; TEXT-DECORATION: none; 
+}
+ A.a1:hover {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
+
+
+
+ A.a2:link {
+	COLOR:  #0F85FE; TEXT-DECORATION: none;
+}
+ A.a2:visited {
+	COLOR: #0F85FE; TEXT-DECORATION: none; 
+}
+ A.a2:hover {
+	COLOR:  #ff0000; TEXT-DECORATION: underline;
+}
+
+A.a3:link {
+	COLOR: #333333; TEXT-DECORATION: none
+}
+A.a3:visited {
+	COLOR: #333333; TEXT-DECORATION: none
+}
+A.a3:hover {
+	COLOR: #0099ff; TEXT-DECORATION: underline
+}
+A.a4:link {
+	COLOR: #ff6600; TEXT-DECORATION: none
+}
+A.a4:visited {
+	COLOR: #ff6600; TEXT-DECORATION: none
+}
+A.a4:hover {
+	COLOR: #ff6600; TEXT-DECORATION: underline
+}
+
+A.moban:link {
+	COLOR:  blue; TEXT-DECORATION: none;
+}
+ A.moban:visited {
+	COLOR: blue; TEXT-DECORATION: none; 
+}
+ A.moban:hover {
+	COLOR:  red; TEXT-DECORATION: underline;
+}
+
+.whitetext{
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.text {
+	font-size: 9pt;
+	color: #FF0000;
+	background-color: #ffffff;
+	height: 15px;
+	width: 80px;
+	padding-top: 1px;
+	padding-right: 0px;
+	padding-bottom: 1px;
+	padding-left: 0px;
+	border: 1px solid #333333;
+}
+.text2 {
+	font-size: 9pt;
+	color: #FF0000;
+	background-color: #eeeeee;
+	height: 15px;
+	width: 150px;
+	padding-top: 1px;
+	padding-right: 0px;
+	padding-bottom: 1px;
+	padding-left: 0px;
+	border: 1px solid #333333;
+}
+.menu {
+	font-size: 9pt;
+	color: #FF0000;
+	height: 20px;
+	width: 70px;
+	padding-top: 3px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 2px;
+	background-color: #eeeeee;
+}
+.sub {
+	font-size: 9pt;
+	color: #333333;
+	height: 16px;
+	width: 45px;
+	padding-top: 1px;
+	padding-right: 0px;
+	padding-bottom: 1px;
+	padding-left: 0px;
+	border: 1px solid #333333;
+	background-color: #f4f4f4;
+}.inputline {
+ font-size: 9pt;
+	font-size: 9pt;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom:0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+    border-style: inset; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;
+ 	background-color: #D0F5FF;
+	border-color: #2989CC;
+ }
